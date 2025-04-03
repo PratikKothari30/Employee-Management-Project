@@ -16,7 +16,7 @@ Dependency Management: We need external libraries (like MySQL JDBC Driver). Mave
 Project Structure: Maven provides a standard project layout, making it easier to maintain. Build Automation: Instead of manually compiling and running, Maven automates these tasks (mvn clean install).
 
 # This project is a great practice for:
-JDBC (Database Connectivity)
-CRUD Operations in MySQL
-Java Programming
-OOP Concepts (Encapsulation, DAO Pattern, etc.)
+1. JDBC (Database Connectivity)
+2. CRUD Operations in MySQL
+3. Java Programming
+4. OOP Concepts (Encapsulation, DAO Pattern, etc.)
